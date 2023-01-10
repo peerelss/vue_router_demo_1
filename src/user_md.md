@@ -2,7 +2,7 @@
 
 ### 1.注册
 
-访问https://t.me/<BOT> 链接，点击 /start 即可开始使用
+访问https://t.me/<BOT> 链接，点击 /start 即可开始使用.
 
 ### 2.使用
 
